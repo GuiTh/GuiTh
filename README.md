@@ -5,7 +5,6 @@ Programador Junior, sempre trabalhando com outras linguagens e tecnologias. Usan
 <br>
 <br>
 <div align="center">
-[Fale comigo](mailto:guilhermetheodorocarlos@gmail.com)
 </div>
 </p>
 
